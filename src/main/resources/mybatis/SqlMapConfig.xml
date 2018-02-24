@@ -5,7 +5,7 @@
 
 	<!-- 别名 -->
 	<typeAliases>
-		<package name="com.itheima.crm.pojo"/>
+		<package name="com.qianyan.recuirt.pojo"/>
 	</typeAliases>
 
 </configuration>
